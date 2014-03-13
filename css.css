@@ -12,7 +12,7 @@
 .lib1 .bt h6 a{text-decoration:none; color:#000000;}
 .lib1 .xmxw {width:600px; position:relative; left:20px; float:left; border:solid 1px #CCCCCC;}
 .lib1 .xmxw table td {height:120px;}
-.xmtk {height:auto; border:solid 1px #CCCCCC; position:relative; left:30px;}
+.xmtk {height:auto; border:solid 1px #CCCCCC; position:relative;}
 #gt {overflow:hidden; width: 560px;}
 #gt img {margin:10px 10px 5px 15px;}
 #guntu {float: left; width: 800%;}
