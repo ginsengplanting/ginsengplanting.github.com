@@ -23,11 +23,11 @@ category: "西洋参"
     <div id="gt">
     <div id="guntu">
     <div id="guntu1">
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-1.jpg" border="0"/></a>
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-2.jpg" border="0"/></a>
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-3.jpg" border="0"/></a> 
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-4.jpg" border="0"/></a>
-     <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-5.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-1.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-2.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-3.jpg" border="0"/></a> 
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-4.jpg" border="0"/></a>
+     <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-5.jpg" border="0"/></a>
     </div>
     <div id="guntu2"></div>
     </div>
