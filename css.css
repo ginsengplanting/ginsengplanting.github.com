@@ -14,12 +14,9 @@
 .lib1 .xmxw table td {height:120px;}
 .xmtk {height:auto; border:solid 1px #CCCCCC; position:relative;}
 #gt {overflow:hidden; width: 560px;}
-#gt img {margin:10px 10px 5px 15px;}
+#gt img {margin:10px 10px 5px 15px; width:160px;height:110px}
 #guntu {float: left; width: 800%;}
 #guntu1 {float: left;}
-    #guntu1 a imag {
-        width:150px; height:200px;
-    }
 #guntu2 {float: left;}
 
 
