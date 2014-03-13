@@ -17,9 +17,9 @@ nav:
   - text: 首页
     url: /index.html
   - text: 企业介绍 
-    url: /categories.html
-  - text: 产品展示
     url: /archives.html
+  - text: 产品展示
+    url: /categories.html
   - text: 联系我们
     url: /contact.html
   - text: 友情链接
