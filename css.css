@@ -17,6 +17,9 @@
 #gt img {margin:10px 10px 5px 15px;}
 #guntu {float: left; width: 800%;}
 #guntu1 {float: left;}
+    #guntu1 a imag {
+        width:150px; height:200px;
+    }
 #guntu2 {float: left;}
 
 

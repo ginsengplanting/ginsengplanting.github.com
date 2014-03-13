@@ -23,11 +23,11 @@ category: "林下参"
     <div id="gt">
     <div id="guntu">
     <div id="guntu1">
-    <a href=""><img src="http://ginsengplanting.github.io/林下参/t7_03.jpg" border="0"/></a>
-    <a href=""><img src="http://ginsengplanting.github.io/林下参/t8_03.jpg" border="0"/></a>
-    <a href=""><img src="http://ginsengplanting.github.io/林下参/t9_03.jpg" border="0"/></a> 
-    <a href=""><img src="http://ginsengplanting.github.io/林下参/t10_03.jpg" border="0"/></a>
-     <a href=""><img src="http://ginsengplanting.github.io/林下参/t11_03.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-1.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-2.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-3.jpg" border="0"/></a> 
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-4.jpg" border="0"/></a>
+     <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-5.jpg" border="0"/></a>
     </div>
     <div id="guntu2"></div>
     </div>
