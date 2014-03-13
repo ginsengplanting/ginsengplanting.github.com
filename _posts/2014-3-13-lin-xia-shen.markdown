@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  TYPO.CSS
+title:  林下参的培养
 date:   2014-03-13 12:55:11
-category: "介绍"
+category: "林下参"
 ---
 <h2 id="tagline">一致化浏览器排版效果，构建最适合中文阅读的网页排版</h2>
 
