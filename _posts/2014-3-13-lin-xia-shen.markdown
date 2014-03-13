@@ -13,7 +13,7 @@ category: "林下参"
         <ul>
             <li><a href="#section2-1">林地的选择</a></li>
             <li><a href="#section2-2">林下播种</a></li>
-			<li><a href="#section2-2">林下移栽</a></li>
+			<li><a href="#section2-3">林下移栽</a></li>
         </ul>
     </li>
     <li><a href="#section3">现代技术</a></li>
