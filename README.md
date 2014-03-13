@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Kunka
 
 > 这只是另外一个 Jekyll 主题文件。
@@ -11,3 +12,7 @@
 * 运行 ```jekyll server```，浏览器打开 http://localhost:4000 便可以看到新的主题。
 
 更多的介绍，详见[Jekyll 博客主题 Kunka](http://www.zhanxin.info/jekyll/2013-08-11-jekyll-theme-kunka.html)。
+=======
+ginsengplanting.github.com
+==========================
+>>>>>>> 9c201b57d8e9bf0d37498c14cc4936a849ab4a60
