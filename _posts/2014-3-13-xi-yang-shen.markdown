@@ -19,7 +19,7 @@ category: "西洋参"
     </li>
 </ol>
 <div class="xmtk">
-    <span style="width:30px; font-size:20px; float:left;">项目图库</span>
+    <span style="width:30px; font-size:20px; float:left;">图片鉴赏</span>
     <div id="gt">
     <div id="guntu">
     <div id="guntu1">
