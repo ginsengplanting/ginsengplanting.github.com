@@ -28,13 +28,15 @@
         {% endif %}
     </head>
     <body>
+        <img id="back-to-top" src="{{ site.url }}/top.png" 
+        style="position:fixed; right: 130px; bottom:50px; border:0px; cursor:pointer;" />
         <div align="center">
                 <img src="{{ site.url }}/logo.png" />
             </div>
         <div align="center" style="margin-top:-280px; position:absolute;">
             <span style="font-size:45px;font-family:STCaiyun; line-height:80px; float:left; margin-left:200px;">长白山开发保护区池西春发人参种植专业合作社</span>
-            <span style="margin-left:100px;">
-               <a href="#" onclick="addFav('长白山开发保护区池西春发人参种植专业合作社','http://ginsengplanting.github.com')">加入收藏夹</a>
+            <span style="margin-left:100px;" onclick="addFav('长白山开发保护区池西春发人参种植专业合作社','http://ginsengplanting.github.com')">
+              <img src="{{ site.url }}/star.png"  />&nbsp;&nbsp;<a>加入收藏夹</a>
             </span>
             
         </div>
@@ -129,7 +131,17 @@
                         alert("加入收藏失败，请使用Ctrl+D进行添加"); 
                     } 
                 } 
-                }  
+            }
+            //回到顶层
+            $("#back-to-top").hide(); //当滚动条的位置处于距顶部100像素以下时，跳转链接出现，否则消失
+            $(function () {
+                $(window).scroll(function () {
+                    if ($(window).scrollTop() > 100) { $("#back-to-top").fadeIn(800); }
+                    else { $("#back-to-top").fadeOut(800); }
+                });
+                //当点击跳转链接后，回到页面顶部位置
+                $("#back-to-top").click(function () { $('body,html').animate({ scrollTop: 0 }, 300); return false; });
+            });
 
         </script>
         {% if page.comment %}
