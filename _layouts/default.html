@@ -113,15 +113,22 @@
 
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script type="text/javascript">
-            function  addFav(title,url) {   //  加入收藏夹  
-                if(document.all)  
-                    {  
-                        window.external.addFavorite(url,title);  
-                        }  
-                else if(window.sidebar)  
-                    {  
-                        window.sidebar.addPanel(title,url,  "" );  
-                     }  
+            function addFav(sTitle, sURL) {   //  加入收藏夹  
+                try 
+                { 
+                    window.external.addFavorite(sURL, sTitle); 
+                } 
+                catch (e) 
+                { 
+                    try 
+                    { 
+                        window.sidebar.addPanel(sTitle, sURL, ""); 
+                    } 
+                    catch (e) 
+                    { 
+                        alert("加入收藏失败，请使用Ctrl+D进行添加"); 
+                    } 
+                } 
                 }  
 
         </script>
