@@ -8,8 +8,9 @@ title: Ginsengplanting
 <input type="button" value="测试"onclick="ll()" />
 <script type="text/javascript">
     function ll() {
-      var mydata = window.location.split("imgid")[1].split("&")[0];
-        alert(mydata);
+     var url=window.location .href;
+   　var aa=url.indexOf(''='');
+   　alert(aa);
     }
   
     
