@@ -34,7 +34,7 @@
         <div align="center" style="margin-top:-280px; position:absolute;">
             <span style="font-size:45px;font-family:STCaiyun; line-height:80px; float:left; margin-left:200px;">长白山开发保护区池西春发人参种植专业合作社</span>
             <span style="margin-left:100px;">
-               <a href="#" onclick="addfavorite()">加入收藏夹</a>
+               <a href="#" onclick="addFav('长白山开发保护区池西春发人参种植专业合作社','http://ginsengplanting.github.com')">加入收藏夹</a>
             </span>
             
         </div>
@@ -113,17 +113,17 @@
 
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script type="text/javascript">
-            function addfavorite() 
-            { 
-                if (document.all) 
-                { 
-                    window.external.addFavorite('http://ginsengplanting.github.io', '长白山开发保护区池西春发人参种植专业合作社');
-                } 
-                else if (window.sidebar) 
-                { 
-                    window.sidebar.addPanel('长白山开发保护区池西春发人参种植专业合作社', 'http://ginsengplanting.github.io', "");
-                } 
-            } 
+            function  addFav(title,url) {   //  加入收藏夹  
+                if(document.all)  
+                    {  
+                        window.external.addFavorite(url,title);  
+                        }  
+                else if(window.sidebar)  
+                    {  
+                        window.sidebar.addPanel(title,url,  "" );  
+                     }  
+                }  
+
         </script>
         {% if page.comment %}
             {% if site.disqus.config %}
