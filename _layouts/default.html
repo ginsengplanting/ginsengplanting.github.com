@@ -24,13 +24,6 @@
               var s = document.getElementsByTagName('script')[0];
                   s.parentNode.insertBefore(ga, s);
             })();
-            function AddToFavorite() {
-               if (document.all) {
-                    window.external.addFavorite(document.URL, document.title);
-                } else if (window.sidebar) {
-                    window.sidebar.addPanel(document.title, document.URL, "");
-                }
-            }
         </script>
         {% endif %}
     </head>
@@ -119,6 +112,15 @@
         </div>
 
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript">
+            function AddToFavorite() {
+                if (document.all) {
+                    window.external.addFavorite(document.URL, document.title);
+                } else if (window.sidebar) {
+                    window.sidebar.addPanel(document.title, document.URL, "");
+                }
+            }
+        </script>
         {% if page.comment %}
             {% if site.disqus.config %}
             <script type="text/javascript">
