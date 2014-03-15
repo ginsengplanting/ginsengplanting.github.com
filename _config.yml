@@ -64,10 +64,7 @@ googleAnaly:
   id: UA-40169250-1
 
 #comment config
-disqus:
-  config: false
-  id: piznblog
 
 duoshuo:
   config: true
-  id: 1739611585
+  id: zhanxin
