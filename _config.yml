@@ -33,7 +33,7 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
+    url: http://weibo.com
   - class: icon-renren
     url: http://renren.com
   - class: icon-google-plus
