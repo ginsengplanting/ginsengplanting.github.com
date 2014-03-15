@@ -10,7 +10,6 @@ description: 长白山开发保护区池西春发人参种植专业合作社
 keywords: 长白山开发保护区池西春发人参种植专业合作社
 url: http://ginsengplanting.github.io
 feed: /atom.xml
-favicon: http://jekyllrb.com/favicon.png
 
 #Nav config
 nav:
@@ -37,10 +36,6 @@ follow:
     url: http://weibo.com/pizn
   - class: icon-renren
     url: http://renren.com
-  - class: icon-github-alt
-    url: http://github.com/pizn
-  - class: icon-twitter
-    url: http://twitter.com/piznlin
   - class: icon-google-plus
     url: http://google.com
 
