@@ -2,10 +2,10 @@
 layout: default
 title: Ginsengplanting
 ---
-<div class="article">
+<div id="img">
  
 </div>
 <script type="text/javascript">
     var rt = request.QueryString("imgid");
-    document.write(rt);
+    document.getElementById("img").innerText(rt);
 </script>
