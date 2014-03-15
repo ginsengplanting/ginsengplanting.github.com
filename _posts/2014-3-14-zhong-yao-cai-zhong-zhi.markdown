@@ -5,7 +5,7 @@ date:   2014-03-13 12:55:11
 category: "中药材种植"
 ---
 
-<h2 id="tagline">中药材种植</h2>
+<h2 id="tagline">灵芝种植，五味子种植</h2>
 
 <ol id="table">
     <li><a href="#section1">灵芝种植</a></li>
