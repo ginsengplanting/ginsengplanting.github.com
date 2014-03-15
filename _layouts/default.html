@@ -24,6 +24,13 @@
               var s = document.getElementsByTagName('script')[0];
                   s.parentNode.insertBefore(ga, s);
             })();
+            function AddToFavorite() {
+               if (document.all) {
+                    window.external.addFavorite(document.URL, document.title);
+                } else if (window.sidebar) {
+                    window.sidebar.addPanel(document.title, document.URL, "");
+                }
+            }
         </script>
         {% endif %}
     </head>
@@ -31,9 +38,11 @@
         <div align="center">
                 <img src="{{ site.url }}/logo.png" />
             </div>
-        <div align="center" style="margin-top:-300px; position:absolute;">
-            <span style="font-size:50px;float:left; margin-left:300px;">长白山开发保护区池西春发人参种植专业合作社</span>
-            <span style="margin-left:400px;">加入收藏夹</span>
+        <div align="center" style="margin-top:-280px; position:absolute;">
+            <span style="font-size:45px;font-family:STCaiyun; line-height:80px; float:left; margin-left:200px;">长白山开发保护区池西春发人参种植专业合作社</span>
+            <span style="margin-left:100px;">
+                <a href="javascript:AddToFavorite();" >加入收藏夹</a> 
+            </span>
             
         </div>
         <div class="head fn-clear">
