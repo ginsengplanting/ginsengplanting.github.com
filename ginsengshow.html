@@ -10,7 +10,8 @@ title: Ginsengplanting
     function ll() {
      var url=window.location .href;
    　var aa=url.indexOf('=');
-   　alert(aa);
+   　url=url.substring(aa+1);
+   　alert(url);
     }
   
     
