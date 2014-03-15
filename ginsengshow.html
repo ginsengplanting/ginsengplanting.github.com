@@ -2,15 +2,13 @@
 layout: default
 title: Ginsengplanting
 ---
-<div id="img">
- adasdasdas
-</div>
+<img id="img" />
 <input type="button" value="²âÊÔ"onclick="ll()" />
 <script type="text/javascript">
-    function ll() {
-        var rt = request.QueryString("imgid");
-        alert(rt);
+    window.onload = function () {
+        var url = window.location.href;
+        var aa = url.indexOf('=');
+        url = url.substring(aa + 1);
+        document.getElementById('img').src = url;
     }
-  
-    
 </script>
