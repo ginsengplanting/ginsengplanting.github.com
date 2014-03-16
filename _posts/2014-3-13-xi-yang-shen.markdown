@@ -8,7 +8,7 @@ category: "西洋参"
 <h2 id="tagline">西洋参：又名广东人参，是人参的一种，因美国旧称为花旗国而得名。原产于美国北部威斯康辛州为主，中国和加拿大南部的森林区也有分布。照产地可分成花旗参、加拿大参和广州参，同一品种但是气候不同，前者的参面横纹比后者更明显，有效成分含量也较高。进口西洋参口感好、香气足、苦中带甘醇，功效也最好。服用方法分为煮、炖、蒸食、切片含化、研成细粉冲服等。</h2>
 
 <ol id="table">
-    <li><a href="#section1">形态特征</a></li>
+     <li><a href="#section1">形态特征</a></li>
     <li><a href="#section2">生长习性</a></li>
 	<li><a href="#section3">食用方法</a></li>
     <li><a href="#section4">主要价值</a>
@@ -19,22 +19,23 @@ category: "西洋参"
     </li>
 </ol>
 <div class="xmtk">
-    <span style="width:30px; font-size:20px; float:left;">图片鉴赏</span>
+    <span style="width:30px; font-size:20px; float:left;">项目图库</span>
     <div id="gt">
     <div id="guntu">
     <div id="guntu1">
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=xi-yang-1.jpg"><img src="http://ginsengplanting.github.io/ginseng/xi-yang-1.jpg" border="0"/></a>
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=xi-yang-2.jpg"><img src="http://ginsengplanting.github.io/ginseng/xi-yang-2.jpg" border="0"/></a>
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=xi-yang-3.jpg"><img src="http://ginsengplanting.github.io/ginseng/xi-yang-3.jpg" border="0"/></a> 
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=xi-yang-4.jpg"><img src="http://ginsengplanting.github.io/ginseng/xi-yang-4.jpg" border="0"/></a>
-     <a href="http://ginsengplanting.github.io/ginsengshow?imgid=xi-yang-5.jpg"><img src="http://ginsengplanting.github.io/ginseng/xi-yang-5.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-1.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-2.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-3.jpg" border="0"/></a> 
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-4.jpg" border="0"/></a>
+     <a href=""><img src="http://ginsengplanting.github.io/ginseng/xi-yang-5.jpg" border="0"/></a>
     </div>
     <div id="guntu2"></div>
     </div>
     </div>
     <script type="text/javascript" src="http://ginsengplanting.github.com/picmove.js"></script>
 </div>
-<h2 id="section1">形态特征</h2>
+
+h2 id="section1">形态特征</h2>
 <p><多年生草木，主根呈圆形或纺锤形，表面浅黄色或黄白色，色泽油光，皮纹细腻，质地饱满而结实，断切面干净，呈现较清晰的菊花纹理，参片甘苦味浓，透喉，全体无毛。根肉质，纺锤形，有时呈分歧状。根茎短。茎圆柱形，长约25厘米，有纵条纹，或略具棱。掌状5出复叶，通常3～4枚，轮生于茎端；叶柄长5～7厘米；小叶片膜质，广卵形至倒卵形，长4～9厘米，宽2.5～5厘米，先端突尖，边缘具粗锯齿，基部楔形，最下两小叶最小；小叶柄长约1.5厘米，最下二小叶柄较短或近于无柄。总花梗由茎端叶柄中央抽出，较叶柄稍长或近于等长；伞形花序，花多数，花梗细短，基部有卵形小苞片1枚；萼绿色，钟状，先端5齿裂，裂片钝头，萼筒基部有三角形小苞片1枚；花瓣5，绿白色，矩圆形；雄蕊5，花丝基部稍宽，花药卵形至矩圆形；雌蕊1，子房下位，2室，花柱2，上部分离呈叉状，下部合生；花盘肉质环状。浆果扁圆形，成对状，熟时鲜红色，果柄伸长。花期7月。果熟期9月。/p>
 <h2 id="section2">生长习性</h2>
 <p>生长于海拔1000米左右的山地，喜散射光和漫射光，适应生长在森林沙质壤上。</p>
