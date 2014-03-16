@@ -30,3 +30,11 @@ comment: true
     <div class="contact">
         <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
     </div>
+    <div class="comment">
+        {% else %}
+            {% if site.duoshuo.config %}
+            <div class="ds-thread"></div>
+            {% endif %}
+        {% endif %}
+    </div>
+</div>
