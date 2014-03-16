@@ -8,25 +8,25 @@ category: "农田参"
 <h2 id="tagline">人参，别名：黄参、棒槌、血参、人衔、鬼盖、神草、土精、地精、海腴、皱面还丹，拉丁文名：Panax ginseng C. A. Mey.五加科、人参属多年生草本植物，喜阴凉、湿润的气候，多生长于昼夜温差小的海拔500～1100米山地缓坡或斜坡地的针阔混交林或杂木林中。由于根部肥大，形若纺锤，常有分叉，全貌颇似人的头、手、足和四肢，故而称为人参。古代人参的雅称为黄精、地精、神草。人参被人们称为“百草之王”，是闻名遐迩的“东北三宝”之一，人参品类众多，但唯独产自长白山的方为珍品，如吉林的“森娃娃”等，更是驰名中外、老幼皆知的名贵药材及补之上品</h2>
 
 <ol id="table">
-    <li><a href="#section1">价值</a>
+    <li><a href="#section1">价值</a></li>
         <ul>
             <li><a href="#section1-1">美容价值</a></li>
             <li><a href="#section1-2">药用价值</a></li>
 			<li><a href="#section1-3">保存方法</a></li>
-			<li><a href="#section1-4">功效</a></li>
+			<li><a href="#section1-3">功效</a></li>
         </ul>
     </li>
 </ol>
 <div class="xmtk">
-    <span style="width:30px; font-size:20px; float:left;">图片鉴赏</span>
+    <span style="width:30px; font-size:20px; float:left;">项目图库</span>
     <div id="gt">
     <div id="guntu">
     <div id="guntu1">
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-1.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-1.jpg" border="0"/></a>
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-2.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-2.jpg" border="0"/></a>
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-3.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-3.jpg" border="0"/></a> 
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-4.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-4.jpg" border="0"/></a>
-     <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-5.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-5.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-1.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-2.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-3.jpg" border="0"/></a> 
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-4.jpg" border="0"/></a>
+     <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-5.jpg" border="0"/></a>
     </div>
     <div id="guntu2"></div>
     </div>
