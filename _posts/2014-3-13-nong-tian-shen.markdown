@@ -22,11 +22,11 @@ category: "农田参"
     <div id="gt">
     <div id="guntu">
     <div id="guntu1">
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-1.jpg" border="0"/></a>
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-2.jpg" border="0"/></a>
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-3.jpg" border="0"/></a> 
-    <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-4.jpg" border="0"/></a>
-     <a href=""><img src="http://ginsengplanting.github.io/ginseng/nong-tian-5.jpg" border="0"/></a>
+    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-1.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-1.jpg" border="0"/></a>
+    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-2.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-2.jpg" border="0"/></a>
+    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-3.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-3.jpg" border="0"/></a> 
+    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-4.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-4.jpg" border="0"/></a>
+     <a href="http://ginsengplanting.github.io/ginsengshow?imgid=nong-tian-5.jpg"><img src="http://ginsengplanting.github.io/ginseng/nong-tian-5.jpg" border="0"/></a>
     </div>
     <div id="guntu2"></div>
     </div>
