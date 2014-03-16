@@ -8,7 +8,7 @@ category: "中药材种植"
 <h2 id="tagline">灵芝种植，五味子种植</h2>
 
 <ol id="table">
-    <li><a href="#section1">灵芝种植</a></li>
+     <li><a href="#section1">灵芝种植</a></li>
       <li><a href="#section2">五味子种植</a>
         <ul>
             <li><a href="#section2-1">繁殖方法</a></li>
@@ -19,21 +19,22 @@ category: "中药材种植"
     </li>
 </ol>
 <div class="xmtk">
-    <span style="width:30px; font-size:20px; float:left;">图片鉴赏</span>
+    <span style="width:30px; font-size:20px; float:left;">项目图库</span>
     <div id="gt">
     <div id="guntu">
     <div id="guntu1">
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=zhong-yao-cai-1.jpg"><img src="http://ginsengplanting.github.io/ginseng/zhong-yao-cai-1.jpg" border="0"/></a>
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=zhong-yao-cai-2.jpg"><img src="http://ginsengplanting.github.io/ginseng/zhong-yao-cai-2.jpg" border="0"/></a>
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=zhong-yao-cai-3.jpg"><img src="http://ginsengplanting.github.io/ginseng/zhong-yao-cai-3.jpg" border="0"/></a> 
-    <a href="http://ginsengplanting.github.io/ginsengshow?imgid=zhong-yao-cai-4.jpg"><img src="http://ginsengplanting.github.io/ginseng/zhong-yao-cai-4.jpg" border="0"/></a>
-     <a href="http://ginsengplanting.github.io/ginsengshow?imgid=zhong-yao-cai-5.jpg"><img src="http://ginsengplanting.github.io/ginseng/zhong-yao-cai-5.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-1.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-2.jpg" border="0"/></a>
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-3.jpg" border="0"/></a> 
+    <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-4.jpg" border="0"/></a>
+     <a href=""><img src="http://ginsengplanting.github.io/ginseng/lin-xia-5.jpg" border="0"/></a>
     </div>
     <div id="guntu2"></div>
     </div>
     </div>
     <script type="text/javascript" src="http://ginsengplanting.github.com/picmove.js"></script>
 </div>
+
 <h2 id="section1">灵芝种植技术</h2>
 <p>1．生物学特性：灵芝为腐生菌，由于可寄生在活树上，故又称为兼性寄生菌。生长的温度为3～40℃范围，以26～28℃最佳。在基质含水量接近200%，空气相对湿度90%，pH5～6的条件下生长良好。灵芝为好气菌，子实体培养时应有充足的氧气和散射的光照。</p>
 <p>⒉栽培技术：
