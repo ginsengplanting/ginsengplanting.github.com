@@ -46,8 +46,8 @@ customLinks:
       url: http://www.baidu.com/
     - text: 谷歌
       url: https://www.google.com.hk/
-    - text: 360
-      url: http://www.so.com/
+    - text: 360导航
+      url: http://hao.360.cn/
     message: 友情链接
   - item:
     - text: 人人网
